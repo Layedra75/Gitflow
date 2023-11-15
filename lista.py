@@ -24,7 +24,7 @@ def main():
         
         if opcion == "1":
             # Agregar tarea
-            tarea = input("Ingrese la nueva tarea: ")
+            tarea = input("Ingrese tu nueva tarea: ")
             tareas.append(tarea)
             print("Tarea agregada con éxito.")
         elif opcion == "2":
