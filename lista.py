@@ -14,7 +14,7 @@ def main():
     while True:
         # Mostrar menú
         print("Menú:")
-        print("1. Agregar tarea")
+        print("1. Agregar tareas")
         print("2. Marcar tarea como completada")
         print("3. Mostrar tareas")
         print("4. Salir")
