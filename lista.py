@@ -26,7 +26,7 @@ def main():
             # Agregar tarea
             tarea = input("Ingrese tu nueva tarea: ")
             tareas.append(tarea)
-            print("Tarea agregada con éxito.")
+            print("Tareas agregada con éxito.")
         elif opcion == "2":
             # Marcar tarea como completada
             mostrar_tareas(tareas)
