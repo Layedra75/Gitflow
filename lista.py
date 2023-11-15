@@ -2,7 +2,7 @@
 
 # Función para mostrar la lista de tareas
 def mostrar_tareas(tareas):
-    print("\nLista de tareas:")
+    print("\nTu lista de tareas:")
     for i, tarea in enumerate(tareas, 1):
         print(f"{i}. {tarea}")
     print()
