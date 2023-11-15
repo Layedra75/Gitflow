@@ -44,7 +44,7 @@ def main():
             print("¡Hasta luego!!")
             break
         else:
-            print("Opción no válida. Inténtelo de nuevo.")
+            print("La opción no válida. Inténtelo de nuevo.")
 
 if __name__ == "__main__":
     main()
