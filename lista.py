@@ -41,7 +41,7 @@ def main():
             mostrar_tareas(tareas)
         elif opcion == "4":
             # Salir del programa
-            print("¡Hasta luego!")
+            print("¡Hasta luego!!")
             break
         else:
             print("Opción no válida. Inténtelo de nuevo.")
